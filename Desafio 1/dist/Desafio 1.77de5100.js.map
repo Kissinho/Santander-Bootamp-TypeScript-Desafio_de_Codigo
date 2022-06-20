@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.ts"],"names":[],"mappings":"AAAA,IAAI,QAAQ,GAAkC;EAC1C,IAAI,EAAE,EADoC;EAE1C,IAAI,EAAE;AAFoC,CAA9C;AAIA,OAAO,CAAC,GAAR,CAAY,QAAZ","file":"Desafio 1.77de5100.js","sourceRoot":"..","sourcesContent":["let employee : {code: number, name: string} = {\r\n    code: 10,\r\n    name: \"luan\"\r\n}\r\nconsole.log(employee)"]}
